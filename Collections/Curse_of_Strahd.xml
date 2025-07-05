@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/backgrounds-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/bestiary-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/class-bard-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/class-warlock-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/feats-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/items-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/races-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/source-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/spells-phb+vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/backgrounds-cos.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/bestiary-cos.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/items-cos.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/source-cos.xml" />
+</collection>
