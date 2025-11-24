@@ -1,9 +1,7 @@
 #!/bin/bash
 
 COLLECTIONS=(
-    Waterdeep_Dungeon_of_the_Mad_Mage.xml
-    WotC_2024+Legacy_2014.xml
-    Curse_of_Strahd.xml
+    Custom.xml
 )
 
-./build-collections.sh -2024 --validate "${COLLECTIONS[@]}"
+./build-collections.sh -2024 "${COLLECTIONS[@]}"

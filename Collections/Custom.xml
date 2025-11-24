@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xi="http://www.w3.org/2001/XInclude">
+    <!-- # D&D 2024 -->
+  <!-- ## Core Rulebooks 2024 -->
+  <!-- The main three books, PHB24, DMG24 and MM25. -->
+  <xi:include href="../Sources/PHB2024/WizardsOfTheCoast24/01_Core/collection-01_core.xml" xpointer="xpointer(/collection/doc)" />
+
+  <!-- ## Core Supplements -->
+  <xi:include href="../Sources/PHB2024/WizardsOfTheCoast24/02_Supplements/collection-02_supplements.xml" xpointer="xpointer(/collection/doc)" />
+
+  <!-- ## Legacy -->
+  <!-- Legacy content from the 2014 books converted to work with the 2024 content. -->
+  <xi:include href="../Sources/PHB2024/Legacy_2014/collection-legacy_2014.xml" xpointer="xpointer(/collection/doc)" />
+
+  <!-- ## Adventures -->
+  <!-- Curse of Strahd -->
+    <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/backgrounds-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/bestiary-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/class-bard-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/class-warlock-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/feats-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/items-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/races-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/source-vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/03_Campaign_Settings/Van_Richtens_Guide_to_Ravenloft/spells-phb+vrgtr.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/backgrounds-cos.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/bestiary-cos.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/items-cos.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Curse_of_Strahd/source-cos.xml" />
+
+  <!-- Mad Mage -->
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Waterdeep_Dungeon_of_the_Mad_Mage/bestiary-wdmm.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Waterdeep_Dungeon_of_the_Mad_Mage/items-wdmm.xml" />
+  <doc href="../Sources/PHB2014/WizardsOfTheCoast/05_Adventures/Waterdeep_Dungeon_of_the_Mad_Mage/source-wdmm.xml" />
+
+
+</collection>
