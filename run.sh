@@ -1,7 +1,7 @@
 #!/bin/bash
 
 COLLECTIONS=(
-    Complete_Compendium_2024.xml
+    WotC_5.5e+Legacy_5e_WotC.xml
 )
 
-./build-collections.sh -2024 "${COLLECTIONS[@]}"
+./build-collections.sh -5.5e --validate "${COLLECTIONS[@]}"
