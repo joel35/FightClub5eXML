@@ -8,7 +8,7 @@ RUN_SCRIPT = run.sh
 WORKDIR = /app
 BRANCH = master
 
-PHONY: build run copy rebase
+PHONY: build run rebase
 
 build:
 	docker build -t $(IMAGE) .
@@ -19,9 +19,6 @@ run:
 		--workdir $(WORKDIR) \
 		$(IMAGE) \
 		./$(RUN_SCRIPT)
-
-copy:
-	cp Compendiums/* $(COMPENDIUM_PATH)/
 
 rebase:
 	git fetch upstream
