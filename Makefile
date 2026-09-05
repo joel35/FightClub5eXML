@@ -1,8 +1,5 @@
 .ONESHELL:
 
-include Personal
-export
-
 IMAGE = xslt-processor
 RUN_SCRIPT = run.sh
 WORKDIR = /app
